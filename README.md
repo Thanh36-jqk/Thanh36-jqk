@@ -86,7 +86,8 @@ scan workloads, and a Next.js control plane streaming live results over WebSocke
 </tr>
 </table>
 
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=Thanh36-jqk&bg_color=0D1117&color=8B949E&title_color=F0F6FC&line=F0F6FC&point=F0F6FC&area=true&area_color=161B22&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thanh36-jqk&theme=github_dark" alt="repos per language" />
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thanh36-jqk&theme=github_dark&utcOffset=7" alt="productive time" />
 
 </div>
 
