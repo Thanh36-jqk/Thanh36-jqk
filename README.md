@@ -91,6 +91,10 @@ scan workloads, and a Next.js control plane streaming live results over WebSocke
 <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thanh36-jqk&theme=github_dark" alt="repos per language" />
 <img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thanh36-jqk&theme=github_dark&utcOffset=7" alt="productive time" />
 
+<br/><br/>
+
+<img width="820" alt="contribution snake" src="https://raw.githubusercontent.com/Thanh36-jqk/Thanh36-jqk/output/snake.svg" />
+
 </div>
 
 <br/>
