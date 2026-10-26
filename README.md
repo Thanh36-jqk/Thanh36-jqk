@@ -71,6 +71,8 @@ scan workloads, and a Next.js control plane streaming live results over WebSocke
 
 <div align="center">
 
+<img width="500" src="https://streak-stats.demolab.com?user=Thanh36-jqk&hide_border=false&background=0D1117&border=21262D&stroke=21262D&ring=F0F6FC&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="contribution streak" />
+
 <table border="0">
 <tr>
 <td>
