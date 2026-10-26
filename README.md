@@ -77,12 +77,12 @@ scan workloads, and a Next.js control plane streaming live results over WebSocke
 <tr>
 <td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thanh36-jqk&show_icons=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&border_color=21262D&ring_color=F0F6FC" alt="stats" />
+<img height="165" src="https://github-readme-stats-iota-navy-63.vercel.app/api?username=Thanh36-jqk&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=F0F6FC&border_color=21262D&ring_color=F0F6FC" alt="stats" />
 
 </td>
 <td>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanh36-jqk&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,shell&hide_border=false&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&border_color=21262D" alt="top languages" />
+<img height="165" src="https://github-readme-stats-iota-navy-63.vercel.app/api/top-langs/?username=Thanh36-jqk&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,shell&hide_border=false&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&border_color=21262D" alt="top languages" />
 
 </td>
 </tr>
